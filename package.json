@@ -1,7 +1,7 @@
 {
-  "name": "LouiMinister-public-portfolio",
+  "name": "louiminister-public-web-portfolio",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "louiminister public web portfolio",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
